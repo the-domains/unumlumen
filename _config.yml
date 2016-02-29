@@ -1,0 +1,28 @@
+name: unumlumen
+favicon: null
+layout_spectrum: 0.8353996369987726
+typography_spectrum: 0.2712927535176277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.44221225497312844
+  lightness: 0.390890619950369
+  saturation: 0.7539303838275373
+  rhythmicContrast: 0.5167186979670078
+purpose: []
