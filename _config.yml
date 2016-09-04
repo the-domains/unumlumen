@@ -1,19 +1,4 @@
-name: unumlumen
-favicon: null
-layout_spectrum: 0.8353996369987726
 typography_spectrum: 0.2712927535176277
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.390890619950369
   saturation: 0.7539303838275373
   rhythmicContrast: 0.5167186979670078
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8353996369987726
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: unumlumen
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Cello
 purpose: []
